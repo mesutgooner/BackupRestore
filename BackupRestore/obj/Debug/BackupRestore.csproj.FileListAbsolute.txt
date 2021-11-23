@@ -1,0 +1,13 @@
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\bin\Debug\BackupRestore.exe.config
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\bin\Debug\BackupRestore.exe
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\bin\Debug\BackupRestore.pdb
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.csproj.AssemblyReference.cache
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.FormBackup.resources
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.FormMain.resources
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.Properties.Resources.resources
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.csproj.GenerateResource.cache
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.exe
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.pdb
+C:\Users\Ngoc\source\repos\BackupRestore\BackupRestore\obj\Debug\BackupRestore.FormRestore.resources
